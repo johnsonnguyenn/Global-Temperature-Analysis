@@ -12,3 +12,5 @@ This is a comprehensive climate data analysis tool coded in C, which calculates:
 This analysis tool reads and processes historical land and ocean temperature data from **1750 to 2015**, sourced from a CSV file. Results are visualized via **GNUPlot**.
 
 All calculations and graphs are accurate, clear, and statistically supported insights into historical changes in climate and trends, understanding the progression and trend of global warming. 
+
+---
