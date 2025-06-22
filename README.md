@@ -15,4 +15,16 @@ All calculations and graphs are accurate, clear, and statistically supported ins
 
 ---
 
+## Requirements
 
+- GCC Compiler ('gcc')
+- GNUPlot ('gnuplot')
+- Standard C Libraries: `stdio.h`, `stdlib.h`, `string.h`, `ctype.h`, `math.h`, `stdbool.h`
+
+---
+
+## Compilation
+
+To compile the project:
+
+gcc -o climate_analyzer main.c 
