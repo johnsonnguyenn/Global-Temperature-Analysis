@@ -15,5 +15,4 @@ All calculations and graphs are accurate, clear, and statistically supported ins
 
 ---
 
-/project-root
 
