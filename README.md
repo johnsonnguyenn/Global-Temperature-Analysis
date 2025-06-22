@@ -14,3 +14,6 @@ This analysis tool reads and processes historical land and ocean temperature dat
 All calculations and graphs are accurate, clear, and statistically supported insights into historical changes in climate and trends, understanding the progression and trend of global warming. 
 
 ---
+
+/project-root
+
